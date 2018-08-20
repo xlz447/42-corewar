@@ -10,3 +10,4 @@ test*
 *.a
 .*.swp
 examples
+*.vscode*
